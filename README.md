@@ -4,4 +4,4 @@ Hi there! 👋
 * I also love to code in python, C++ as well 
 * 🐳 Docker container deployment is plain magic so get me to write your dockerfiles!
 
-![LanguageStats](https://api.githubtrends.io/user/svg/bb-centrum/langs?time_range=one_year&include_private=True&theme=dark)
+![UsersStats](https://github-readme-stats-phi-five-53.vercel.app/api?username=bb-centrum&show_icons=true&theme=holi)
